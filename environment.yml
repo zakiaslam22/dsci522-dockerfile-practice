@@ -1,0 +1,8 @@
+name: docker2
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - python=3.11
+prefix: /Users/zakiaslam22/miniforge3/envs/docker2
